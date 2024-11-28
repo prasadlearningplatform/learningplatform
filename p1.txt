@@ -1,1 +1,2 @@
+:wq
 this is not going to commit because testing the gitignore feature
